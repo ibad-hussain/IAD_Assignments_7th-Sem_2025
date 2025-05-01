@@ -15,8 +15,9 @@ BSCS-633 focuses on the development of modern web applications using core techno
 - Frontend frameworks like React
 - Backend development with Node.js and Express
 - Full Stack concepts using the MERN stack
-- Firebase and Firestore
+- Firebase and Firestore integration
 - REST APIs, CRUD operations
+- Class discussions and collaborations via Discord and StackBlitz
 
 <br>
 
