@@ -1,0 +1,73 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #333;
+  padding: 10px 30px;
+}
+
+input,
+textarea {
+  display: block;
+  width: 97%;
+  margin-bottom: 0.4rem;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 10px;
+  resize: none;
+}
+
+button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.home-main h1 {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.blogForm-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blogForm-main div {
+  width: 40vw;
+  background-color: #5e5e5e;
+  border: none;
+  border-radius: 10px;
+}
+
+.blogForm-main form {
+  gap: 8px;
+  padding: 20px;
+}
+
+.blogList-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 30px;
+  padding: 0;
+}
+
+.blogList-main div {
+  width: 40vw;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  margin: 0;
+  padding: 20px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.548);
+}
+
+.blogList-main div h2,
+.blogList-main div p {
+  margin: 0;
+  padding: 0;
+}
